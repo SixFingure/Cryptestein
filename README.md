@@ -27,3 +27,7 @@ Encryption:
 Decryption:
 
 ![decryption_demo](docs/images/decryption.gif)
+
+Brute Force:
+
+![brute_force_demo](docs/images/brute.gif)
