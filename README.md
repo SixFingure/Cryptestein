@@ -19,3 +19,6 @@ Prerequisites:
   - Install python extension on the system and on visual studio.
   - Run the script by going to the location where you have saved the cryptestein from the terminal.
 
+## Demonstration
+Encryption:
+- 
