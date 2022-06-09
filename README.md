@@ -21,4 +21,4 @@ Prerequisites:
 
 ## Demonstration
 Encryption:
-- 
+![encryption_demo](docs/images/encryption.gif)
