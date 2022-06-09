@@ -21,4 +21,9 @@ Prerequisites:
 
 ## Demonstration
 Encryption:
+
 ![encryption_demo](docs/images/encryption.gif)
+
+Decryption:
+
+![decryption_demo](docs/images/decryption.gif)
