@@ -12,3 +12,10 @@ Cryptestein ships regularly with new features and bug fixes.
 - Back and Exit buttons are implemented, if you have entered wrong input text or a key value.
 - Every error is handled smoothly with an illustration which shows what went wrong and how to fix it.
 
+## Getting started
+Prerequisites:
+- Your computer must be running on Windows 10 or newer or any linux system.
+- Install the latest version of [Visual Studio](https://visualstudio.microsoft.com/downloads/) (the free community edition is sufficient) or any other code editor or terminal will work.
+  - Install python extension on the system and on visual studio.
+  - Run the script by going to the location where you have saved the cryptestein from the terminal.
+
